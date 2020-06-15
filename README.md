@@ -24,11 +24,11 @@ Issue Labels ⇆ Trello Labels
 
 - **move_card_when_pull_request_opened**
 
-This moves Trello card when issue opened. It uses the issue number {#number} included in the description of the pull request and searches for cards from DEPARTURE_LIST and moves to DESTINATION_LIST. If you set up a reviewer, it will be added to the card members.
+This moves Trello card when pull request opened. It uses the issue number {#number} included in the description of the pull request and searches for cards from DEPARTURE_LIST and moves to DESTINATION_LIST. If you set up a reviewer, it will be added to the card members.
 
 - **move_card_when_pull_request_closed**
 
-This moves Trello card when issue closed.
+This moves Trello card when pull request closed.
 
 # Env
 `TRELLO_API_KEY`: Your Trello API key
