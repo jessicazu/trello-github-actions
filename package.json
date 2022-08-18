@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/jessicazu/trello-github-actions#readme",
   "dependencies": {
-    "@actions/core": "^1.2.2",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^2.1.1",
     "request": "^2.88.2",
     "request-promise-native": "^1.0.8"
